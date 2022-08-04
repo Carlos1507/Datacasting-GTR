@@ -10,7 +10,7 @@
 #include <unistd.h>
 #include <threads.h>
 
-// Se setea el pin 11 (GPIO07) para usarlo en la transmisión
+// Se setea el pin 11 (GPIO07) para usarlo en la transmisión 
 #define PIN RPI_GPIO_P1_07
 
 int main(int argc, char const *argv[]){
